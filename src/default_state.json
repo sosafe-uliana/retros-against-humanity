@@ -1,22 +1,190 @@
 [
-  "If history has taught us anything, it's to never underestimate _____.",
-  "We must strive for a balance between _____ and _____.",
-  "Everybody in the office seems to be obsessed with _____ these days.",
-  "The real reason our build failed: _____.",
-  "In Rust we trust, but in _____ we panic!",
-  "Our team's spirit animal is clearly _____.",
-  "The hidden cost of _____ is always _____.",
-  "If our project was a sandwich, _____ would be the secret sauce.",
-  "TypeScript's type system can't save us from _____.",
-  "Our standup meetings would be more productive if we included _____.",
-  "The root cause of all our technical debt: _____.",
-  "If our codebase was a person, it would probably be addicted to _____.",
-  "If we could refactor one thing, it would be _____.",
-  "The unspoken rule of our coding standards: Never, ever _____.",
-  "The best way to onboard new team members: _____.",
-  "The unofficial team motto: '_____ or die trying'",
-  "In our next retrospective, we need to seriously discuss _____.",
-  "If we had to explain our job to a five-year-old: '_____'",
-  "The secret ingredient to our project's success: 50% skill, 50% _____.",
-  "The person who deserves infinite pizza and praise for _____ is definitely _____."
+  {
+    "type": "good",
+    "text": "We were into _____ before it was cool."
+  },
+  {
+    "type": "good",
+    "text": "I love the smell of _____ in the morning."
+  },
+  {
+    "type": "good",
+    "text": "_____ was so good even Grumpy Cat smiled."
+  },
+  {
+    "type": "good",
+    "text": "_____ is my chosen weapon in the zombie apocalypse."
+  },
+  {
+    "type": "good",
+    "text": "The secret weapon in the war against bad sprints is _____."
+  },
+  {
+    "type": "good",
+    "text": "_____ was all the things, to all the people."
+  },
+  {
+    "type": "good",
+    "text": "The secret to a good sprint they don’t want you to know about is _____."
+  },
+  {
+    "type": "good",
+    "text": "More beautiful than a double rainbow; when _____ just works."
+  },
+  {
+    "type": "good",
+    "text": "I’ll tell you what I want, what I really really want: _____."
+  },
+  {
+    "type": "good",
+    "text": "I want to shout it from the rooftops. I love _____."
+  },
+  {
+    "type": "good",
+    "text": "If our project was a sandwich, _____ would be the secret sauce."
+  },
+  {
+    "type": "bad",
+    "text": "The tenth circle of hell is made up of _____."
+  },
+  {
+    "type": "bad",
+    "text": "_____ keeps me up at night."
+  },
+  {
+    "type": "bad",
+    "text": "Ain’t nobody got time for _____."
+  },
+  {
+    "type": "bad",
+    "text": "I wouldn’t wish _____ on my worst enemy."
+  },
+  {
+    "type": "bad",
+    "text": "Drawing a perfect circle on an etch a sketch is easier than ______."
+  },
+  {
+    "type": "bad",
+    "text": "The only thing I regret is _____."
+  },
+  {
+    "type": "bad",
+    "text": "_____ should be sent to bed without supper."
+  },
+  {
+    "type": "bad",
+    "text": "If only we’d known about _____ sooner."
+  },
+  {
+    "type": "improvement",
+    "text": "SoSafe don’t currently _____, but if they did, they’d be the best in the world."
+  },
+  {
+    "type": "improvement",
+    "text": "______: what’s the worst that could happen?"
+  },
+  {
+    "type": "improvement",
+    "text": "I’m 100% sure, except for maybe ______."
+  },
+  {
+    "type": "improvement",
+    "text": "_____ could save the world. Or it could kill us all."
+  },
+  {
+    "type": "improvement",
+    "text": "I like to try new things, but is ______ really the answer?"
+  },
+  {
+    "type": "improvement",
+    "text": "_____ didn’t go exactly how I’d have liked. But it worked."
+  },
+  {
+    "type": "improvement",
+    "text": "Why didn’t we think of _____ sooner?"
+  },
+  {
+    "type": "improvement",
+    "text": "_____ surprised me more than Chris Evans leaving Top Gear."
+  },
+  {
+    "type": "improvement",
+    "text": "Who could have guessed that _____ would be a thing this sprint?"
+  },
+  {
+    "type": "stars",
+    "text": "No one puts ______ in the corner."
+  },
+  {
+    "type": "stars",
+    "text": "______ is a one man/woman army."
+  },
+  {
+    "type": "stars",
+    "text": "The name’s Bond. ______ Bond."
+  },
+  {
+    "type": "stars",
+    "text": "Who you gonna call? ______!"
+  },
+  {
+    "type": "stars",
+    "text": "Even Chuck Norris bows down to ______."
+  },
+  {
+    "type": "stars",
+    "text": "I’d take ______ home to meet the parents."
+  },
+  {
+    "type": "stars",
+    "text": "Always be yourself, unless you can be ______."
+  },
+  {
+    "type": "stars",
+    "text": "______: not the hero we want, but the hero we definitely need."
+  },
+  {
+    "type": "stars",
+    "text": "I’d recommend ______ to a friend."
+  },
+  {
+    "type": "stars",
+    "text": "______ is an unstoppable sprint beast."
+  },
+  {
+    "type": "bad",
+    "text": "If history has taught us anything, it's to never underestimate _____."
+  },
+  {
+    "type": "bad",
+    "text": "The real reason our build failed: _____."
+  },
+  {
+    "type": "good",
+    "text": "Our team's spirit animal is clearly _____."
+  },
+  {
+    "type": "bad",
+    "text": "TypeScript's type system can't save us from _____."
+  },
+  {
+    "type": "improvement",
+    "text": "Our standup meetings would be more productive if we included _____."
+  },
+  {
+    "type": "improvement",
+    "text": "If we could refactor one thing, it would be _____."
+  },
+  {
+    "type": "bad",
+    "text": "The unofficial team motto: '_____ or die trying'."
+  },
+  {
+    "type": "improvement",
+    "text": "In our next retrospective, we need to seriously discuss _____."
+  },
+  {
+    "type": "good",
+    "text": "The secret ingredient to our project's success: 50% skill, 50% _____."
+  }
 ]

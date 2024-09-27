@@ -1,6 +1,9 @@
 import defaults from "./default_state.json";
 
-export type Card = string;
+export type Card = {
+  text: string;
+  type: string;
+};
 
 export class Deck {
   private cards: Card[];
